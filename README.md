@@ -5,7 +5,7 @@
 </p>
 <br>
 <p align="center">
-    Visit <a href="https://nikhilpal2705.github.io">My Website</a> to know more about me.
+    Visit <a href="https://jiten.tech">My Website</a> to know more about me.
 </p>
 
 <p align="center">
