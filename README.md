@@ -58,7 +58,7 @@
 - Languages: &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
-  ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=coffeescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 - Frameworks : &nbsp;
