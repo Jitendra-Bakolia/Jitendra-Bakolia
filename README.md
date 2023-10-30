@@ -33,16 +33,16 @@
 
 ***
 
-**⚙️ &nbsp;GitHub Analytics**
+<!-- **⚙️ &nbsp;GitHub Analytics**
 
 <p align="center">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&hide_border=true&theme=dark" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</p>
+</p> -->
 
 ***
 
-**♨️ &nbsp;DSA Analytics**
+<!-- **♨️ &nbsp;DSA Analytics** -->
 
 <!-- <p align="center"> <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
          
