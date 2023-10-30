@@ -56,7 +56,7 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-  ![Java Icon](path-to-your-icon.png)
+  ![Java Icon](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png)
 
 
 - Web Development: &nbsp;
