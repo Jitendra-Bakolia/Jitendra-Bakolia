@@ -56,8 +56,6 @@
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-  ![Java Icon](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png)
-  ![Java Icon](<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-256.png" alt="Java Icon" width="20px">)
 
 
 - Web Development: &nbsp;
@@ -70,6 +68,7 @@
   ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
   ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
 
 
 - Databases:  &nbsp;
