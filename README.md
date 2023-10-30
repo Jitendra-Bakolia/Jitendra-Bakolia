@@ -53,6 +53,7 @@
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
