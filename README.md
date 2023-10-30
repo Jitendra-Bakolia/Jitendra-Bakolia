@@ -73,25 +73,25 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Sammy.js](https://img.shields.io/badge/-Sammy.js-333333?style=flat&logo=sammy.js)
 
-- Web Development: &nbsp;
+- Web Technologies: &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf)
   ![JSP](https://img.shields.io/badge/-JSP-333333?style=flat&logo=jsp)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=007ACC)
-  ![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-333333?style=flat&logo=sequelizeorm)
+  ![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-333333?style=flat&logo=sequelize)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - Developer Tools: &nbsp;
   ![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-- Developer Tools: &nbsp;
+- Web Server: &nbsp;
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=apachetomcat)
