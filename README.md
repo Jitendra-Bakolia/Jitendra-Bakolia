@@ -10,9 +10,12 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/jitendrabakolia/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <br>
+    <a href="https://www.linkedin.com/in/jitendrabakolia/">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
     <!-- <a href="https://t.me/nikhilpal2705">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
@@ -53,7 +56,7 @@
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jitendrabakolia0@gmail.com)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
