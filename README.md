@@ -54,27 +54,44 @@
 
 - Languages: &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
   ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+- Frameworks : &nbsp;
+  ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
+  ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Hibernate](https://img.shields.io/badge/-Hibernate-333333?style=flat&logo=hibernate)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=spring)
+
+- Libraries: &nbsp;
+  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
+  ![AJAX](https://img.shields.io/badge/-AJAX-333333?style=flat&logo=ajax)
+  ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
+  ![SweetAlert](https://img.shields.io/badge/-SweetAlert-333333?style=flat&logo=sweetalert)
+  ![Toaster](https://img.shields.io/badge/-Toaster-333333?style=flat&logo=toaster)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+  ![Sammy.js](https://img.shields.io/badge/-Sammy.js-333333?style=flat&logo=sammy.js)
 
 - Web Development: &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-- Libraries & Frameworks: &nbsp;
-  ![Node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
-  ![Express.js](https://img.shields.io/badge/-express.js-333333?style=flat&logo=express)
-  ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
-
+  ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-333333?style=flat&logo=thymeleaf)
+  ![JSP](https://img.shields.io/badge/-JSP-333333?style=flat&logo=jsp)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 
 - Databases:  &nbsp;
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql&logoColor=007ACC)
-  ![Firestore](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+  ![Sequelize ORM](https://img.shields.io/badge/-Sequelize%20ORM-333333?style=flat&logo=sequelizeorm)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - Developer Tools: &nbsp;
   ![GIT](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+
+- Developer Tools: &nbsp;
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
+  ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=apachetomcat)
