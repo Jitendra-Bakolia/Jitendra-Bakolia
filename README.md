@@ -16,7 +16,7 @@
     <a href="mailto:jitendrabakolia0@gmail.com">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-    <a href="https://leetcode.com/nikhilpal2705/">
+    <a href="https://leetcode.com/Jitendra-Bakolia/">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     </a>
     <br>
