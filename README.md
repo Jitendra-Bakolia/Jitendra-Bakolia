@@ -12,10 +12,14 @@
     <a href="https://www.linkedin.com/in/jitendrabakolia/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <!-- <br> -->
+    <br>
     <a href="mailto:jitendrabakolia0@gmail.com">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
+    <a href="https://leetcode.com/nikhilpal2705/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+    </a>
+    <br>
     <!-- <a href="https://t.me/nikhilpal2705">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
@@ -28,9 +32,6 @@
     </a>
     <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705">
         <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
-    </a>
-    <a href="https://leetcode.com/nikhilpal2705/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     </a> -->
 </p>
 
@@ -43,13 +44,13 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p> -->
 
-<!-- *** -->
+***
 
-<!-- **♨️ &nbsp;DSA Analytics** -->
+**♨️ &nbsp;DSA Analytics**
 
-<!-- <p align="center"> <a href="https://leetcode.com/nikhilpal2705"><img src="https://leetcard.jacoblin.cool/nikhilpal2705?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
+<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
          
-<p align="center"> <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p> -->
+<!-- <p align="center"> <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p> -->
 
 ***
 
