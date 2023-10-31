@@ -48,7 +48,7 @@
 
 **♨️ &nbsp;DSA Analytics**
 
-<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
+<!--<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>-->
          
 <!-- <p align="center"> <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p> -->
 
