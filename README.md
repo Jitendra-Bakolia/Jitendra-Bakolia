@@ -20,7 +20,8 @@
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
     </a>
     <br>
-    <!-- <a href="https://t.me/nikhilpal2705">
+    <!--<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://img.icons8.com/?size=48&id=13679&format=png" alt="Typescript" width="21px" height="21px"></a>
+     <a href="https://t.me/nikhilpal2705">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
     </a>
     <a href="https://twitter.com/nikhilpal2705">
