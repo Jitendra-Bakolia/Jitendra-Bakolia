@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <br>
-    <a href="mailto:jitendrabakolia0@gmail.com">
+    <a href="mailto:jitendrabakolia.dev@gmail.com">
       <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://leetcode.com/Jitendra-Bakolia/">
