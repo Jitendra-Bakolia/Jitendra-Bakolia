@@ -36,21 +36,6 @@
         <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c">
     </a> -->
 </p>
-
-<!-- *** -->
-
-**⚙️ &nbsp;GitHub Analytics**
-
-<p align="center">
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&hide_border=true&theme=dark" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</p>
-
-<!--***-->
-
-<!--**♨️ &nbsp;DSA Analytics**-->
-
-<!--<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>-->
          
 <!-- <p align="center"> <a href="https://auth.geeksforgeeks.org/user/nikhilpal2705/practice/"><img src="https://geeks-for-geeks-stats-card.vercel.app/?username=nikhilpal2705" alt="GFG stats"/></a></p> -->
 
@@ -98,6 +83,12 @@
 - Web Server: &nbsp;
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=apachetomcat)
+
+***
+
+**♨️ &nbsp;DSA Analytics**
+
+<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
 
 ***
 
