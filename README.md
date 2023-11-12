@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&text=%20Jitendra%20Bakolia%20"
     alt="Jitendra Bakolia" width="1500" />
 <p align="center">
-    Hi there! 👋</br>
+    Hi there! 👋</br></br>
     I'm a Full Stack Developer</br>
     At Agami Technologies Pvt. Ltd.
 </p>
