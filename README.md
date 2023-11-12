@@ -39,12 +39,12 @@
 
 <!-- *** -->
 
-<!-- **⚙️ &nbsp;GitHub Analytics**
+**⚙️ &nbsp;GitHub Analytics**
 
 <p align="center">
         <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&hide_border=true&theme=dark" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</p> -->
+</p>
 
 <!--***-->
 
@@ -99,11 +99,14 @@
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=apachetomcat)
 
-
 ***
 
-**📊 GitHub Stats**
+**⚙️ &nbsp;GitHub Analytics**
 
-![](https://github-readme-stats.vercel.app/api?username=Jitendra-Bakolia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&theme=dark&hide_border=false" alt="Streak Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jitendra-Bakolia&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
