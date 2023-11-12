@@ -79,6 +79,8 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
 
 - Web Server: &nbsp;
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
