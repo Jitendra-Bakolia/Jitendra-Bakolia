@@ -98,3 +98,9 @@
 - Web Server: &nbsp;
   ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx)
   ![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-333333?style=flat&logo=apachetomcat)
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hacky-tosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hacky-tosh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hacky-tosh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
