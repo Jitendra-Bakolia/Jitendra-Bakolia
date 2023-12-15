@@ -90,17 +90,17 @@
 
 ***
 
-**♨️ &nbsp;DSA Analytics**
+<!--**♨️ &nbsp;DSA Analytics**-->
 
-<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>
+<!--<p align="center"> <a href="https://leetcode.com/Jitendra-Bakolia/"><img src="https://leetcard.jacoblin.cool/Jitendra-Bakolia?border=0&radius=10&theme=dark&ext=activity" alt="Leetcode stats"/> </a></p>-->
 
-***
+<!--***-->
 
-**⚙️ &nbsp;GitHub Analytics**
+<!--**⚙️ &nbsp;GitHub Analytics**
 <p align="center">
         <img height="180em" src="https://streak-stats.demolab.com/?user=Jitendra-Bakolia&theme=dark&hide_border=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
-</p>
+</p>-->
 <!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendra-Bakolia&theme=dark&hide_border=false" alt="Streak Stats">
   <br/>
@@ -109,12 +109,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendra-Bakolia&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p> -->
 
-***
+<!--***
 
 **🏆 GitHub Trophies**
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jitendra-Bakolia&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+</p>-->
 
 
